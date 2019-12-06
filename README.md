@@ -1,2 +1,2 @@
-# workflow_application
+# Workflow Application
 Repository for building workflow application
